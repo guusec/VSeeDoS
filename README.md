@@ -11,3 +11,5 @@ As well, if the JSON payloads contain values of 10 digits or larger, this will c
 This script provides a proof of concept that can cause VSeeFace to hang from a single UDP packet.
 
 This script affects the most recent release of VSeeFace (v1.13.38c2) and likely all versions prior with the remote tracking feature.
+
+[Demo video](https://www.youtube.com/watch?v=CsLcM8a05xs)
