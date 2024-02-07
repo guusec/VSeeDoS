@@ -1,4 +1,5 @@
 VSeeFace offers a remote tracking feature that makes it possible to pair with the VTube Studio iOS application.
+
 <img src="https://github.com/guusec/VSeeDoS/assets/78179391/dc8ec463-4264-479b-8d82-4b293024e33a" height=324 width=324> 
 
 Once paired, the iOS device will send unencrypted UDP packets to VSeeFace containing JSON payloads with values that map the puppeteer's movements to the model.
